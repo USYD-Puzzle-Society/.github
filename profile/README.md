@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hallo 👋
+
+This is the official page for USYD Puzzle Society's project repositories!
+
+Our current projects:
+- Discord Bot
+- Website (coming soon...)
 
 <!--
 
